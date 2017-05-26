@@ -1,0 +1,12 @@
+c:\users\c_sharp\documents\visual studio 2015\Projects\System.Net\System.Net\bin\Debug\System.Net.exe.config
+c:\users\c_sharp\documents\visual studio 2015\Projects\System.Net\System.Net\bin\Debug\System.Net.exe
+c:\users\c_sharp\documents\visual studio 2015\Projects\System.Net\System.Net\bin\Debug\System.Net.pdb
+c:\users\c_sharp\documents\visual studio 2015\Projects\System.Net\System.Net\obj\Debug\System.Net.csprojResolveAssemblyReference.cache
+c:\users\c_sharp\documents\visual studio 2015\Projects\System.Net\System.Net\obj\Debug\System.Net.exe
+c:\users\c_sharp\documents\visual studio 2015\Projects\System.Net\System.Net\obj\Debug\System.Net.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\System.Net\System.Net\bin\Debug\System.Net.exe.config
+C:\Users\student\Documents\Visual Studio 2015\Projects\System.Net\System.Net\obj\Debug\System.Net.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\System.Net\System.Net\obj\Debug\System.Net.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\System.Net\System.Net\bin\Debug\System.Net.exe
+C:\Users\student\Documents\Visual Studio 2015\Projects\System.Net\System.Net\bin\Debug\System.Net.pdb
+C:\Users\student\Documents\Visual Studio 2015\Projects\System.Net\System.Net\obj\Debug\System.Net.csprojResolveAssemblyReference.cache
